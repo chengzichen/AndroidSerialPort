@@ -15,6 +15,7 @@ android {
             }
         }
     }
+    ndkVersion "21.1.6352462"
     buildTypes {
         release {
             minifyEnabled false
